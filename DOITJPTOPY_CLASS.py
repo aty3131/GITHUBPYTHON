@@ -1,3 +1,4 @@
+
 class FourCal:
     def __init__(self, first, second):
         self.first = first
